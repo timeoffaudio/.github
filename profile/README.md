@@ -1,5 +1,5 @@
-## hello everyone 👋🏼
+## hello everyone👋🏼
 
-I am currently working on **dime**, a powerful effects rack (VST3 and AudioUnit) that lets you target specific dimensions of a sound with your own favourite plugins, unlocking novel processing possibilities and workflows.
+we're work in progress...
 
-check it out at [timeoff.audio](https://timeoff.audio).
+... but let's keep in touch at [timeoff.audio](https://timeoff.audio).
